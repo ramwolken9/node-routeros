@@ -1,6 +1,4 @@
-# Discontinued
-
-***I worked on this project in my spare time, but unfortunately I no longer work with mikrotik devices and don't have the free time anymore, so consider it as discontinued. Feel free to fork this project and create your own spin.***
+# node-routeros
 
 # Description
 
